@@ -1,0 +1,41 @@
+{
+  "common": {
+    "Sign In": "Sign In",
+    "Features": "Features",
+    "Testimonials": "Testimonials",
+    "Pricing": "Pricing",
+    "FAQs": "FAQs",
+    "Privacy Policy": "Privacy Policy",
+    "Terms & Conditions": "Terms & Conditions",
+    "Subscribe to Newsletter": "Subscribe to Newsletter",
+    "RESOURCES": "RESOURCES",
+    "PAGES": "PAGES",
+    "NEWSLETTER": "NEWSLETTER",
+    "Email address": "Email address",
+    "Subscribe": "Subscribe",
+    "Join Waitlist": "Join Waitlist",
+    "Loading...": "Loading...",
+    "Successfully joined": "Successfully joined the waitlist!",
+    "Failed to join": "Failed to join the waitlist",
+    "Checkout NextSaaS": "👉 NextStack"
+  },
+  "hero": {
+    "titleHtml": "Modern <span>full-stack boilerplate</span> for your next project",
+    "descriptionHtml": "Built with <span class='font-semibold text-purple-600 dark:text-purple-400'>Next.js 14</span>, <span class='font-semibold text-blue-600 dark:text-blue-400'>T3 Stack</span>, and <span class='font-semibold text-green-600 dark:text-green-400'>shadcn/ui</span>. Everything you need to build stunning web applications, faster than ever.",
+    "cta": "Get Started",
+    "bannerHtml": "<span class='flex items-center gap-1.5'><span class='flex -space-x-2'></span><span class='ml-2 font-medium'>Trusted by <span class='bg-gradient-to-r from-purple-600 to-blue-600 bg-clip-text text-transparent'>2000+</span> developers</span></span>"
+  },
+  "waitlist": {
+    "title": "The modern stack for ambitious developers",
+    "description": "Start building your next project with a production-ready template that scales. Beautiful design, powerful features, and developer experience at its core.",
+    "banner": "Early Access • Join Waitlist"
+  },
+  "auth": {
+    "title": "Welcome back",
+    "description": "Continue with your social account",
+    "socialButton": "Continue with {provider}",
+    "errors": {
+      "default": "Something went wrong. Please try again."
+    }
+  }
+}
